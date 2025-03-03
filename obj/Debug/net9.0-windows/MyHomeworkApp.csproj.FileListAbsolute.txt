@@ -1,0 +1,14 @@
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.AssemblyInfoInputs.cache
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.AssemblyInfo.cs
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.csproj.CoreCompileInputs.cache
+C:\local_code\MyHomeworkApp\bin\Debug\net9.0-windows\MyHomeworkApp.exe
+C:\local_code\MyHomeworkApp\bin\Debug\net9.0-windows\MyHomeworkApp.deps.json
+C:\local_code\MyHomeworkApp\bin\Debug\net9.0-windows\MyHomeworkApp.runtimeconfig.json
+C:\local_code\MyHomeworkApp\bin\Debug\net9.0-windows\MyHomeworkApp.dll
+C:\local_code\MyHomeworkApp\bin\Debug\net9.0-windows\MyHomeworkApp.pdb
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.dll
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\refint\MyHomeworkApp.dll
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.pdb
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\MyHomeworkApp.genruntimeconfig.cache
+C:\local_code\MyHomeworkApp\obj\Debug\net9.0-windows\ref\MyHomeworkApp.dll
